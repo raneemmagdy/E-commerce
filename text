@@ -1,0 +1,5 @@
+npm i react-slick
+npm i slick-carousel
+npm i react-helmet
+
+///2mport in index.js
